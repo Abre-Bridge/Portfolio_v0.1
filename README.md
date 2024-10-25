@@ -1,2 +1,2 @@
-# BRIDGE-KDB
-Brought to you by KDB.Inc
+#KDB
+KDB.Inc
